@@ -47,7 +47,7 @@ Please remember to modify your 帐号 and 密码.
 ![Screenshot-Android](https://dn-jinwei.qbox.me/Screenshot_2015-12-03-13-03-05.png)
 
 ### Windows
-+ If you are using Windows, you can either download our pre-built binary program to login or if you are using Cygwin/MSYS2, you can still use the `curl` way.
++ If you are using Windows, you can either [download](https://github.com/ZJGSU-Open-Source/wifi-helper/releases/download/v1.1/wifi-helper.zip) our pre-built binary release to login or if you are using Cygwin/MSYS2, you can still use the `curl` way.
 + Please remember to modify your username and password in `config.json`.
 
 ## Note
