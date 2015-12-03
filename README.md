@@ -25,12 +25,13 @@ Please remember modify 帐号 and 密码.
 ```bash
 buttonClicked=4&redirect_url=&err_flag=0&username=帐号%20%20%20%20%20%20%20%20%20%20%20&password=密码
 ```  
-Please remember modify 帐号 and 密码.
+Please remember modify 帐号 and 密码.  
 3. Click `Done` back to main screen, enter below url:  
 ```bash
 https://2.2.2.2/login.html
-```
-4. Click `POST` and finally if you see `Login Successful` in the response, you can surf the Internet.
+```  
+Click `POST`.  
+4. Finally if you see `Login Successful` in the response, you can surf the Internet.
 
 ### Android
 
